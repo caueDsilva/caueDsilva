@@ -119,7 +119,7 @@ My name is Cauê Silva Dias, I'm 22 years old, and I'm from the state of Minas G
 <br/>
 
 ### 📊 Statistics
-
+---
 <p>
   <img 
     align="left" 
